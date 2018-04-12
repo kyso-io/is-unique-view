@@ -10,15 +10,15 @@ Its pretty easy to install and use.
 Install
 
 ```
-npm install is-unique-view
+npm install @kyso/is-unique-view
 or
-yarn add is-unique-view
+yarn add @kyso/is-unique-view
 ```
 
 Usage
 
 ```
-const isUniqueView = require('is-unique-view')
+const isUniqueView = require('@kyso/is-unique-view')
 
 if (isUniqueView()) {
   // view is unique
