@@ -2,6 +2,12 @@
 # yarn lockfile v1
 
 
+"@kyso/is-unique-view@^0.0.1":
+  version "0.0.1"
+  resolved "https://registry.yarnpkg.com/@kyso/is-unique-view/-/is-unique-view-0.0.1.tgz#902a542094ab1cb1cae8321ed975b8ce8e1b6ce5"
+  dependencies:
+    js-cookie "^2.2.0"
+
 "@zeit/check-updates@1.1.1":
   version "1.1.1"
   resolved "https://registry.yarnpkg.com/@zeit/check-updates/-/check-updates-1.1.1.tgz#1bee858fd3f9b8633b0fc23dff53cb17343331c0"

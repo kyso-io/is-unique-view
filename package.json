@@ -4,6 +4,7 @@
   "main": "./src/is-unique-view.js",
   "license": "MIT",
   "dependencies": {
+    "@kyso/is-unique-view": "^0.0.1",
     "js-cookie": "^2.2.0"
   },
   "devDependencies": {
